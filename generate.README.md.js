@@ -8,6 +8,7 @@ Rollup.js 学习笔记
 
 - https://rollupjs.org/guide/en/
 - https://rollupjs.org/guide/zh/
+- https://github.com/rollup/awesome
 
 `;
 
